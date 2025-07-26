@@ -1,1 +1,1 @@
-This is a facebook clone project using html css and little bit of js . 
+This is a facebook clone project using html css and little bit of js. 
