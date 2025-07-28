@@ -311,7 +311,7 @@ nav{
     margin-right: 10px;
 }
 .user-profile p{
-    margin-bottom: -5px;
+    margin-bottom: -4px;
     font-weight: 500;
     color: #626262
 }
@@ -351,5 +351,37 @@ nav{
 .add-post-links a img{
     width: 20px;
     margin-right: 10px;
+
+}
+
+.post-container{
+    width: 100%;
+    background: #fff;
+    border-radius: 6px;
+    padding: 20px;
+    color: #626262;
+    margin: 20px 0;
+
+}
+
+.user-profile span{
+    font-size: 13px;
+    color: #9a9a9a;
+    
+}
+
+.caption{
+    margin: 15px 0;
+    font-size: 15px;
+
+}
+.caption a{
+    text-decoration: none;
+    color: #1876f2;
+}
+.post-img{
+    width: 100px;
+    border-radius: 4px;
+    margin-bottom: 5px;
 
 }
